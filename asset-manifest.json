@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanaulla0.github.io/react-m1/static/css/main.0ff2faf0.css",
+    "main.js": "/sanaulla0.github.io/react-m1/static/js/main.3c1d5b74.js",
+    "static/js/787.1c3fe4f8.chunk.js": "/sanaulla0.github.io/react-m1/static/js/787.1c3fe4f8.chunk.js",
+    "index.html": "/sanaulla0.github.io/react-m1/index.html",
+    "main.0ff2faf0.css.map": "/sanaulla0.github.io/react-m1/static/css/main.0ff2faf0.css.map",
+    "main.3c1d5b74.js.map": "/sanaulla0.github.io/react-m1/static/js/main.3c1d5b74.js.map",
+    "787.1c3fe4f8.chunk.js.map": "/sanaulla0.github.io/react-m1/static/js/787.1c3fe4f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff2faf0.css",
+    "static/js/main.3c1d5b74.js"
+  ]
+}
