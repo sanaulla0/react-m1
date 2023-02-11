@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sanaulla0/react-m1.git/static/css/main.0ff2faf0.css",
-    "main.js": "/sanaulla0/react-m1.git/static/js/main.5c7ceb87.js",
-    "static/js/787.1c3fe4f8.chunk.js": "/sanaulla0/react-m1.git/static/js/787.1c3fe4f8.chunk.js",
-    "index.html": "/sanaulla0/react-m1.git/index.html",
-    "main.0ff2faf0.css.map": "/sanaulla0/react-m1.git/static/css/main.0ff2faf0.css.map",
-    "main.5c7ceb87.js.map": "/sanaulla0/react-m1.git/static/js/main.5c7ceb87.js.map",
-    "787.1c3fe4f8.chunk.js.map": "/sanaulla0/react-m1.git/static/js/787.1c3fe4f8.chunk.js.map"
+    "main.css": "/react-m1.git/static/css/main.0ff2faf0.css",
+    "main.js": "/react-m1.git/static/js/main.e60dac2d.js",
+    "static/js/787.1c3fe4f8.chunk.js": "/react-m1.git/static/js/787.1c3fe4f8.chunk.js",
+    "index.html": "/react-m1.git/index.html",
+    "main.0ff2faf0.css.map": "/react-m1.git/static/css/main.0ff2faf0.css.map",
+    "main.e60dac2d.js.map": "/react-m1.git/static/js/main.e60dac2d.js.map",
+    "787.1c3fe4f8.chunk.js.map": "/react-m1.git/static/js/787.1c3fe4f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ff2faf0.css",
-    "static/js/main.5c7ceb87.js"
+    "static/js/main.e60dac2d.js"
   ]
 }
